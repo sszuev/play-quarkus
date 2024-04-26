@@ -1,0 +1,1 @@
+A demo project contains `quarkus-kafka-streams` & `quarkus-rest`
